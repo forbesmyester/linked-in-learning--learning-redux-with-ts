@@ -1,0 +1,19 @@
+export const ADD_DAY = "ADD_DAY";
+export type ADD_DAY = typeof ADD_DAY;
+export const REMOVE_DAY = "REMOVE_DAY";
+export type REMOVE_DAY = typeof REMOVE_DAY;
+export const SET_GOAL = "SET_GOAL";
+export type SET_GOAL = typeof SET_GOAL;
+export const ADD_ERROR = "ADD_ERROR";
+export type ADD_ERROR = typeof ADD_ERROR;
+export const CLEAR_ERROR = "CLEAR_ERROR";
+export type CLEAR_ERROR = typeof CLEAR_ERROR;
+export const FETCH_RESORT_NAMES = "FETCH_RESORT_NAMES";
+export type FETCH_RESORT_NAMES = typeof FETCH_RESORT_NAMES;
+export const CANCEL_FETCHING = "CANCEL_FETCHING";
+export type CANCEL_FETCHING = typeof CANCEL_FETCHING;
+export const CHANGE_SUGGESTIONS = "CHANGE_SUGGESTIONS";
+export type CHANGE_SUGGESTIONS = typeof CHANGE_SUGGESTIONS;
+export const CLEAR_SUGGESTIONS = "CLEAR_SUGGESTIONS";
+export type CLEAR_SUGGESTIONS = typeof CLEAR_SUGGESTIONS;
+
